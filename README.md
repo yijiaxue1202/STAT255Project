@@ -1,4 +1,5 @@
 # STAT255Project
 
 Paper: AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.
+
 Access the paper [here](https://arxiv.org/abs/2010.11929)
