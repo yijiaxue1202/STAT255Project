@@ -8,4 +8,4 @@ Access the paper's repository [here](https://github.com/google-research/vision_t
 
 Quick start at [colab](https://colab.research.google.com/github/google-research/vision_transformer/blob/main/vit_jax.ipynb#scrollTo=rL0jQRBCgeJA)
 
-Presentation slides (WIP) and quiz answers are in files
+Presentation slides and quiz answers are in files
